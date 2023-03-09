@@ -1,16 +1,51 @@
-# stylish
+# Flutter Shop
 
-A new Flutter project.
+This project for managment budget. It was build for a Capstone Project for the Microverse Ruby on Rails module.
+
+## Built With
+
+- Flutter
+
+## Video 
+[video](https://drive.google.com/file/d/1FylBdBtxG_MClZ67UJV-sBaKnrUfYc9_/view?usp=sharing)
+
+## Screen 
+![screenshot](./ScreenShot1.png)
+![screenshot](./ScreenShot2.png)
+![screenshot](./ScreenShot3.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Download the ZIP from this [Link](https://github.com/mustabbas/Flutter-Shop.git), or run the following git command to clone the files to your machine:
 
-A few resources to get you started if this is your first Flutter project:
+- git clone https://github.com/mustabbas/Flutter-Shop.git
+- Open the cloned folder on the IDE of your choice
+- run `flutter run`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Author
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👤 **MUSTAFA ABBAS**
+
+- GitHub: [@githubhandle](https://github.com/mustabbas)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mustabbas/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/mustabbas/Flutter-Shop/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+I would like to thank this channel that learn me to do this app [ TheFlutterWay,](https://www.youtube.com/@TheFlutterWay),
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+
+
+
