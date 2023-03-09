@@ -1,6 +1,6 @@
 # Flutter Shop
 
-This project for managment budget. It was build for a Capstone Project for the Microverse Ruby on Rails module.
+This project shop app using flutter.
 
 ## Built With
 
